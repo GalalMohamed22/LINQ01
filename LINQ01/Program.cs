@@ -77,6 +77,25 @@ namespace LINQ01
             #endregion
 
 
+            #region   Create a new anonymous type with three properties:
+
+            //var product = ProductList.Select(p => new
+            //{
+            //    Name = p.ProductName,
+            //    Price = p.UnitPrice,
+            //    StockStatus = p.UnitsInStock > 0 ? "Available" : "Out of Stock"
+            //});
+
+            //foreach (var item in product)
+            //{
+            //    Console.WriteLine($"Name: {item.Name}, Price: {item.Price}, Stock: {item.StockStatus}");
+
+            //}
+
+
+            #endregion
+
+
 
 
         }
