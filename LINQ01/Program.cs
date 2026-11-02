@@ -11,6 +11,20 @@ namespace LINQ01
         static void Main(string[] args)
         {
 
+            #region Get all products from the "Seafood" category. Print each  product's name and price
+
+            //var product = from p in ProductList
+            //              where p.Category == "Seafood"
+            //              select new { p.ProductName, p.UnitPrice };
+
+            //foreach (var item in product)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+            #endregion
+
 
 
 
