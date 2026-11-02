@@ -123,6 +123,20 @@ namespace LINQ01
             #endregion
 
 
+            #region  Get all products from the "Beverages" category, sorted by UnitsInStock descending. Print name and stock.
+
+            //var products = ProductList.Where(p => p.Category == "Beverages")
+            //    .OrderByDescending(p => p.UnitsInStock)
+            //    .Select(p => new { p.ProductName, p.UnitsInStock });
+
+            //foreach (var item in products)
+            //{
+            //    Console.WriteLine($"{item.ProductName},{item.UnitsInStock}");
+            //}
+
+
+            #endregion
+
 
 
 
