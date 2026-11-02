@@ -38,6 +38,19 @@ namespace LINQ01
             #endregion
 
 
+            #region Sort all products by UnitPrice (ascending). Print each  product's name and price.
+
+            //var product = ProductList.OrderBy(p=>p.UnitPrice).Select(p => new { p.ProductName, p.UnitPrice });
+
+            //foreach (var item in product)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+
+            #endregion
+
+
 
         }
     }
