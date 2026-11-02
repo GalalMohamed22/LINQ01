@@ -181,6 +181,19 @@ namespace LINQ01
             #endregion
 
 
+            #region Create a list of all digits in the array whose second letter is 'i' that is reversed from the order in the original array.
+
+            //String[] Arr = { "aPPLE", "AbAcUs", "bRaNcH", "BlUeBeRrY", "ClOvEr", "cHeRry" };
+
+            //var NewArr = Arr.Where(w => w[1] == 'i').Reverse();
+
+            //foreach (var item in NewArr)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            #endregion
+
 
 
 
